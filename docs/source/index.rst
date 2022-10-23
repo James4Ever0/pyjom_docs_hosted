@@ -1,7 +1,7 @@
 Welcome to PyJom's documentation!
 ===================================
 
-**PyJom** (/lu'make/) is a Python library for social media and new media automation.
+**PyJom** is a Python library for social media and new media automation.
 It leverages existing data all over the world and offers multiple tests and examples for research.
 
 Check out the :doc:`usage` section for further information, including
